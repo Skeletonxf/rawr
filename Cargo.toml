@@ -18,6 +18,6 @@ exclude = [
 serde_codegen = "0.8"
 
 [dependencies]
-hyper = "0.9.10"
+hyper = "0.13"
 serde = "0.7.14"
 serde_json = "0.7.4"
